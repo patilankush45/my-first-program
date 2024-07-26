@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    height: 50px;
+    width: 120px;
+    background-color: aqua;
+    border: 2px ;
+    border-style: solid;
+    border-color: blue;
+}
+h2{
+    height: 50px;
+    width: 120px;
+    text-align: center;
+    border: 2px dotted blue;
+    background-color: rgb(79, 231, 231);
+
+}
+div{
+    height: 120px;
+    width: 120px;
+    background-color: rgb(10, 196, 206);
+    border: solid gold;
+    border-radius: 50%;
+}
+#next{
+    height: 120px;
+    width: 120px;
+    background-color: rgb(10, 196, 206);
+    border: solid gold;
+    border-radius: 15px;
+    padding: 50px;
+    margin: 125px;
+}

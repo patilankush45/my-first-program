@@ -1,0 +1,37 @@
+div {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    line-height: 200px; /* Center text vertically */
+    background-color: chartreuse;
+    border: solid black 2px;
+    transition: all 2s ease-in 1s;
+    position: absolute;
+    left: 200px;
+    top: 150px;
+}
+
+div:hover {
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 30px;
+    transform: rotate(360deg) scale(2, 2); /* Corrected rotation and scaling */
+}
+
+div:active {
+    background-color: rgb(252, 9, 167);
+    font-size: 35px;
+}
+#second{
+    height: 200px;
+    width: 200px;
+    color: chartreuse;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+}
+second:hover{
+    background-color: coral;
+    color: darkcyan;
+}

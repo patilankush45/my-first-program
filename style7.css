@@ -1,0 +1,39 @@
+#navbar{
+    height: 60px;
+    background-color: rgb(25, 17, 56);
+}
+#logo{
+    color: #f08804;
+    text-decoration: none;
+    font-size: 25px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 150px;
+}
+button{
+    background-color: #f08804;
+}
+#one{
+    height: 100px;
+    width: 100px;
+    background-color: #bb6b52;
+    display: inline-block;
+    border: solid 2px;
+    margin-top: 1px;
+}
+#two{
+    height: 100px;
+    width: 100px;
+    background-color: #5aa145;
+    display: inline-block;
+    border: solid 2px;
+}
+#three{
+    height: 100px;
+    width: 100px;
+    background-color: #434e9b;
+    display: inline-block;
+    border: solid 2px;
+}

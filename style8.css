@@ -1,0 +1,15 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(217, 52, 212);
+    margin: 25px;
+    padding: 25px;
+    display:inline-block;
+}
+
+#two{
+    display: none;
+}
+#three{
+    visibility: hidden;
+}

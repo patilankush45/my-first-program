@@ -1,0 +1,40 @@
+
+
+h1{
+    text-align: center;
+}
+    div{
+        height: 100px;
+        width: 100px;
+        border: solid 2px black;
+        display: inline-block;
+    }
+    #contener{
+        height: 200px;
+        width: 800px;
+        display: flex;
+       flex-direction: row;
+       justify-content: space-evenly;
+       flex-wrap: wrap-reverse;
+       align-items: center;
+       align-content:space-between;
+       }
+
+#box1{
+
+    background-color: aqua;
+}
+#box2{
+
+    background-color: blueviolet;
+}
+#box3{
+    background-color: rgb(196, 116, 17);
+}
+#box4{
+background-color: rgb(226, 43, 214);
+}
+#box5{
+background-color: aquamarine;
+
+}

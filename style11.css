@@ -1,0 +1,12 @@
+div{
+    height: 500px;
+    width: 400px;
+    background-color: aqua;
+    background-image: url(bro1.jpg);
+    background-size: cover;
+    position: fixed ;
+    left: 300px;
+}
+p{
+    width: 500px;
+}

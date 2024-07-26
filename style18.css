@@ -1,0 +1,16 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 25px solid rgb(255, 0, 247);
+    border-top: 25px solid black;
+    border-radius: 50%;
+    animation: ankuu 4s steps(2056) 0s infinite normal;
+}
+@keyframes ankuu {
+    from{
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

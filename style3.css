@@ -1,0 +1,9 @@
+#one{
+    font-family: 'Courier New';
+    font-size: 12px;
+}
+#two{
+    font-size: 30px;
+    font-family: 'Arial';
+    text-transform: capitalize;
+}
